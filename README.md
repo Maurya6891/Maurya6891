@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maurya6891
 - 👀 I’m interested in ... Python , ML
 - 🌱 I’m currently learning ... Big Data (Hadoop)
-- 💞️ I’m looking to get into ... MAANG companies
+- 💞️ I’m looking to get in ... MAANG companies
 - 📫 How to reach me ... maurya6891@gmail.com
 
 <!---
